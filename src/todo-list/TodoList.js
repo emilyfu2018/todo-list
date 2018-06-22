@@ -9,6 +9,7 @@ class TodoList extends Component {
                 <TodoListItem title="wash dog" dueDate="tomorrow" priority="2" />
                 <TodoListItem title="lettuce" dueDate="Monday" priority="3" />
                 <TodoListItem title="shit" dueDate="Monday" priority="4" />
+                <TodoListItem title="shit" dueDate="Monday" priority="4" />
             </div>
         );
     }
